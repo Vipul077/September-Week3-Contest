@@ -1,0 +1,273 @@
+
+body{
+    background-color: #F8F8F8;
+}
+
+html{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Main-container{
+    padding: 20px 140px 20px 140px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* border: 2px solid yellow; */
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid yellow; */
+    align-items: center;
+}
+
+.sections{
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    padding-left: 15px;
+}
+
+.search-button-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search>input{
+    padding: 5px;
+}
+
+.signin-button{
+    padding: 10px 20px;
+    background-color: #F94A3D;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+.head-section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.content{
+    width: 30%;
+    /* padding: 40px; */
+    margin-right: 12px;
+    /* border: 2px solid brown; */
+}
+
+.firstline{
+    background-color: #FDECEC;
+    border-radius: 14px;
+    width: 50%;
+    height: 10%;
+    display: flex;
+    /* padding: 1px 4px 1px 4px; */
+    /* border: 2px solid blue; */
+}
+
+.fries-section{
+    position: relative;
+  }
+  
+  .inner-image{
+    position: absolute;
+    top: 4px;
+    right: 4px;
+  }
+
+  .bold-red{
+    color: red;
+  }
+
+  .button-2{
+    padding: 10px 20px;
+    background-color: #F94A3D;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 15px;
+  }
+
+  .best-section{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .textsection{
+    width: 25%;
+    padding: 60px;
+    /* border: 2px solid blue; */
+  }
+
+  .food-1{
+    width: 25%;
+    padding: 40px;
+    border: 2px solid #F3F3F3;
+    border-radius: 8px;
+  }
+
+  .head {
+    padding-left: 40%;
+  }
+
+  .catogeries{
+    display: flex;
+    justify-content: center;
+  }
+  .redd{
+    color: red;
+  }
+
+  .fastfoodsection{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+  }
+  .card1{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #EAEAEA;
+    align-items: center;
+    border-radius: 11px;
+  }
+
+  p{
+    color: #69697B;
+  }
+
+  .price{
+    color:#F94A3D;
+  }
+  .card-button{
+    background-color: none;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 10px 15px;
+  }
+
+  .card-button-1{
+    background-color: red;
+    /* border: 2px solid red; */
+    border-radius: 8px;
+    padding: 10px 15px;
+    color: white
+  }
+
+  .next{
+    padding: 40px;
+    display: flex;
+    flex-direction: column  ;
+    align-items: center;
+  }
+
+  .customer-section{
+    display: flex;
+
+  }
+
+  .peoples{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    /* border: 2px solid blue; */
+  }
+
+  .people1{
+    display: flex;
+    /* box-shadow: 5px 10px; */
+    /* border: 2px solid blue; */
+    flex-direction: row;
+    align-items: center;
+    border-radius: 8px;
+    padding-right: 140px;
+    padding-top: 30px;
+  }
+
+  .people2{
+    display: flex;
+    box-shadow: black;
+    box-shadow: 2px 2px 2px 2px grey;
+    /* border: 2px solid blue; */
+    flex-direction: row;
+    align-items: center;
+    border-radius: 8px;
+    padding-right: 110px;
+    background-color: white;
+  }
+
+  .people-content{
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    width: 80vw;
+  }
+
+  .frame22{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+  }
+
+  .bottom1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 110px;
+    padding-top: 40px   ;
+    /* border: 2px solid blue; */
+    /* align-items: center; */
+  }
+
+
+  .tag{
+    justify-content: left;
+    width: 20vw;
+    padding-right: 40px;
+  }
+
+  table{
+    display: flex;
+    flex-direction: column;
+    color: #69697B;
+    /* justify-content: space-evenly; */
+    /* width: 100vw; */
+    /* padding-left: 40px; */
+  }
+
+ .c1{
+    padding-right: 133px;
+ }
+ .c2{
+    padding-right: 186px;
+ }
+ .c3{
+    padding-right: 150px;
+ }
+ .c4{
+    padding-right: 133px;
+ }
+
+  thead, td, tr{
+    align-items: left;
+    padding-right: 110px;
+    padding-bottom: 10px;
+  }
+
+
+
+
+
